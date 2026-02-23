@@ -14,4 +14,4 @@ This project analyzes insurance policy data to evaluate premium performance, cla
 - High-risk customers flagged using claim ratio
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+Dashboard.png
