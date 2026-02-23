@@ -15,3 +15,5 @@ This project analyzes insurance policy data to evaluate premium performance, cla
 
 ## Dashboard Preview
 Dashboard.png
+## 👩‍💻 Author
+Shriyanka Bhardwaj
